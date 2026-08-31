@@ -1,0 +1,21 @@
+# Local credentials and configuration
+.env
+.env.*
+!.env.example
+.ssh/
+.aws/
+*.pem
+*.key
+id_rsa*
+id_ed25519*
+id_github*
+*credentials*
+*secrets*
+
+# Blender backups and local caches
+*.blend[0-9]*
+__pycache__/
+*.py[cod]
+.venv/
+Thumbs.db
+.DS_Store
