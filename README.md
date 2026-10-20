@@ -1,5 +1,7 @@
 # Spherical Plushie Collection
 
+![Spherical plushie collection](PlushieCollection_preview.png)
+
 `PlushieCollection.blend` contains ten stylized plush characters based on the supplied concept image. Each character has its own armature and joined skeletal mesh.
 
 ## Unreal import
